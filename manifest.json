@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "BookerLing",
+    "description": "Bookmarker underling that helps you organize your tabs!",
+    "version": "1.0",
+    "action": {
+        "default_popup": "app.html",
+        "default_icon": "hello_extensions.png"
+    }
+}
